@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/transition/transition.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/src/main/res/transition/transition.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/transition/slide.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/src/main/res/transition/slide.xml"
+    }
+]

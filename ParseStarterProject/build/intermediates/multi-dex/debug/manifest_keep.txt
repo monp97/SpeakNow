@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:24
+-keep class com.parse.starter.StarterApplication { <init>(...); }
+

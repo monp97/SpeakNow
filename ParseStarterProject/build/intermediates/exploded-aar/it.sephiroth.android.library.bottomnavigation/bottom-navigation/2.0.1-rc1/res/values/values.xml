@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="bbn_fixed_item_ripple_color">#33000000</color>
+    <color name="bbn_item_shifting_color_inactive" ns1:ignore="UnusedResources">#99000000</color>
+    <color name="bbn_shifting_item_ripple_color">#33FFFFFF</color>
+    <color name="bbn_topShadowCenterColor">#66000000</color>
+    <color name="bbn_topShadowEndColor">#AA000000</color>
+    <declare-styleable name="BottomNavigation"><attr format="reference" name="bbn_entries"/><attr format="string" name="bbn_badgeProvider"/></declare-styleable>
+    <declare-styleable name="BottomNavigationBehavior"><attr format="integer" name="bbn_animationDuration"/><attr format="boolean" name="bbn_scrollEnabled"/></declare-styleable>
+    <declare-styleable name="BottomNavigationMenu"><attr name="android:background"/><attr format="color" name="bbn_badgeColor"/><attr format="integer" name="bbn_itemAnimationDuration"/><attr format="color" name="bbn_rippleColor"/><attr format="color" name="bbn_itemColorActive"/><attr format="color" name="bbn_itemColorInactive"/><attr format="color" name="bbn_itemColorDisabled"/><attr format="boolean" name="bbn_alwaysShowLabels"/></declare-styleable>
+    <declare-styleable name="BottomNavigationMenuItem"><attr name="android:id"/><attr name="android:title"/><attr name="android:icon"/><attr name="android:enabled"/><attr name="android:color"/></declare-styleable>
+    <dimen name="bbn_badge_size">8dp</dimen>
+    <dimen name="bbn_bottom_navigation_height">56dp</dimen>
+    <dimen name="bbn_bottom_navigation_width">72dp</dimen>
+    <dimen name="bbn_elevation">8dp</dimen>
+    <dimen name="bbn_elevation_tablet">0dp</dimen>
+    <dimen name="bbn_fixed_item_icon_size">24dp</dimen>
+    <dimen name="bbn_fixed_item_padding_bottom">10dp</dimen>
+    <dimen name="bbn_fixed_item_padding_horizontal">12dp</dimen>
+    <dimen name="bbn_fixed_item_padding_top_active">6dp</dimen>
+    <dimen name="bbn_fixed_item_padding_top_inactive">8dp</dimen>
+    <dimen name="bbn_fixed_maxActiveItemWidth">168dp</dimen>
+    <dimen name="bbn_fixed_minActiveItemWidth">104dp</dimen>
+    <dimen name="bbn_fixed_text_size_inactive">12dp</dimen>
+    <dimen name="bbn_ripple_radius">52dp</dimen>
+    <dimen name="bbn_shifting_item_icon_size">24dp</dimen>
+    <dimen name="bbn_shifting_item_padding_bottom_active">10dp</dimen>
+    <dimen name="bbn_shifting_item_padding_bottom_inactive">16dp</dimen>
+    <dimen name="bbn_shifting_item_padding_top">6dp</dimen>
+    <dimen name="bbn_shifting_item_ripple_radius" ns1:ignore="UnusedResources">48dp</dimen>
+    <dimen name="bbn_shifting_maxActiveItemWidth">168dp</dimen>
+    <dimen name="bbn_shifting_maxInactiveItemWidth">96dp</dimen>
+    <dimen name="bbn_shifting_minActiveItemWidth">96dp</dimen>
+    <dimen name="bbn_shifting_minInactiveItemWidth">64dp</dimen>
+    <dimen name="bbn_shifting_text_size">14dp</dimen>
+    <dimen name="bbn_tablet_item_height">72dp</dimen>
+    <dimen name="bbn_tablet_item_icon_size">24dp</dimen>
+    <dimen name="bbn_tablet_layout_padding_top">0dp</dimen>
+    <dimen name="bbn_top_shadow_height">6dp</dimen>
+    <item name="bbn_backgroundOverlay_animator" type="id"/>
+    <item name="bbn_layoutManager" type="id"/>
+    <integer name="bbn_background_animation_duration">350</integer>
+    <integer name="bbn_hide_animation_duration">250</integer>
+    <integer name="bbn_item_animation_duration">100</integer>
+    <string name="bbn_badgeProvider" ns1:ignore="UnusedResources" translatable="false">it.sephiroth.android.library.bottomnavigation.BadgeProvider</string>
+    <string name="bbn_default_view_behavior" ns1:ignore="UnusedResources" translatable="false">it.sephiroth.android.library.bottomnavigation.BottomBehavior</string>
+    <string name="bbn_fab_default_behavior" ns1:ignore="UnusedResources" translatable="false">it.sephiroth.android.library.bottomnavigation.FloatingActionButtonBehavior</string>
+    <string name="bbn_phone_view_behavior" ns1:ignore="UnusedResources" translatable="false">it.sephiroth.android.library.bottomnavigation.BottomBehavior</string>
+    <string name="bbn_tablet_view_behavior" ns1:ignore="UnusedResources" translatable="false">it.sephiroth.android.library.bottomnavigation.TabletBehavior</string>
+</resources>

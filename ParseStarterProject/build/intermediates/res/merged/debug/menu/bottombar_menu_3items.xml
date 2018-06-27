@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:bbn_itemColorActive="#FFFFFFFF"
+    app:bbn_itemColorInactive="#7FFFFFFF"
+    app:bbn_badgeColor="#FFCC0000"
+    app:bbn_rippleColor="#99FFFFFF">
+
+    <item
+        android:id="@+id/bbn_item1"
+        android:color="@android:color/darker_gray"
+        android:icon="@drawable/if_star_1930255"
+        android:title="Speak" />
+    <item
+        android:id="@+id/bbn_item2"
+        android:color="@android:color/holo_green_dark"
+        android:icon="@drawable/if_star_1930255"
+        android:title="Write" />
+    <item
+        android:id="@+id/bbn_item3"
+        android:color="@android:color/holo_orange_dark"
+        android:icon="@drawable/if_star_1930255"
+        android:title="Emojis" />
+    <item
+        android:id="@+id/bbn_item4"
+        android:color="#FF5252"
+        android:icon="@drawable/if_star_1930255"
+        android:title="Profile" />
+
+</menu>

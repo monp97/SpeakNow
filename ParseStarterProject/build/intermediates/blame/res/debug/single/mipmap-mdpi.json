@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-mdpi/next.png",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/src/main/res/mipmap-mdpi/next.png"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-mdpi/back.png",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/src/main/res/mipmap-mdpi/back.png"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,310 @@
+[
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.2/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.2/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/if_star_1930255.png",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/src/main/res/drawable/if_star_1930255.png"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.2/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/speakwrite.jpg",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/src/main/res/drawable/speakwrite.jpg"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.2/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/tooltip_frame_light.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/bbn_background_tablet_right.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/it.sephiroth.android.library.bottomnavigation/bottom-navigation/2.0.1-rc1/res/drawable/bbn_background_tablet_right.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/applogo.jpg",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/src/main/res/drawable/applogo.jpg"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.2/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/bbn_ripple_selector.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/it.sephiroth.android.library.bottomnavigation/bottom-navigation/2.0.1-rc1/res/drawable/bbn_ripple_selector.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.2/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.2/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.2/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/ic_launcher.png",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/color_cursor_white.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.miguelcatalan/materialsearchview/1.4.0/res/drawable/color_cursor_white.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.2/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/bbn_background.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/it.sephiroth.android.library.bottomnavigation/bottom-navigation/2.0.1-rc1/res/drawable/bbn_background.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/back.png",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/src/main/res/drawable/back.png"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/finallogo.png",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/src/main/res/drawable/finallogo.png"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/speak.png",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/src/main/res/drawable/speak.png"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.2/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/bbn_background_tablet_left.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/it.sephiroth.android.library.bottomnavigation/bottom-navigation/2.0.1-rc1/res/drawable/bbn_background_tablet_left.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.2/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/tooltip_frame_dark.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/microphone.png",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/src/main/res/drawable/microphone.png"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/mic.png",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/src/main/res/drawable/mic.png"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/speaklogo.jpg",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/src/main/res/drawable/speaklogo.jpg"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/ic_dots_vertical.png",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/src/main/res/drawable/ic_dots_vertical.png"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.2/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.2/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.2/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/next.png",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/src/main/res/drawable/next.png"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/drawable/bbn_top_shadow.xml",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/exploded-aar/it.sephiroth.android.library.bottomnavigation/bottom-navigation/2.0.1-rc1/res/drawable/bbn_top_shadow.xml"
+    }
+]

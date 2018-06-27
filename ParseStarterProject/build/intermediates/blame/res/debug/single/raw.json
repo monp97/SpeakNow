@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/raw/setprofile.mp3",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/src/main/res/raw/setprofile.mp3"
+    },
+    {
+        "merged": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/build/intermediates/res/merged/debug/raw/speakmain.mp3",
+        "source": "/Users/monikapandey/AndroidStudioProjects/SpeakNow/ParseStarterProject/src/main/res/raw/speakmain.mp3"
+    }
+]

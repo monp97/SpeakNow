@@ -1,0 +1,436 @@
+<FrameLayout android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/frame1"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_marginTop="40dp"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/ll1"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <android.support.v7.widget.AppCompatButton
+                    android:id="@+id/button_1"
+                    android:onClick="speakPage2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="sick"/>
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <android.support.v7.widget.AppCompatButton
+                    android:id="@+id/button_2"
+                    android:onClick="speakPage2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="thirsty"/>
+
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+
+                <android.support.v7.widget.AppCompatButton
+                    android:id="@+id/button_3"
+                    android:onClick="speakPage2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="water"/>
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/ll2"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <android.support.v7.widget.AppCompatButton
+                    android:id="@+id/button_4"
+                    android:onClick="speakPage2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="juice"/>
+
+
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+
+                <android.support.v7.widget.AppCompatButton
+                    android:id="@+id/button_5"
+                    android:onClick="speakPage2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="bathroom"/>
+
+            </LinearLayout>
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll3"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <android.support.v7.widget.AppCompatButton
+                    android:id="@+id/button_6"
+                    android:onClick="speakPage2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="to urinate"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <android.support.v7.widget.AppCompatButton
+                    android:id="@+id/button_7"
+                    android:onClick="speakPage2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="full now"/>
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/ll4"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <android.support.v7.widget.AppCompatButton
+                    android:id="@+id/button_8"
+                    android:onClick="speakPage2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="my throat"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <android.support.v7.widget.AppCompatButton
+                    android:id="@+id/button_9"
+                    android:onClick="speakPage2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="I cannot swallow"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/ll5"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <android.support.v7.widget.AppCompatButton
+                    android:id="@+id/button_10"
+                    android:onClick="speakPage2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="hard to breathe"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <android.support.v7.widget.AppCompatButton
+                    android:id="@+id/button_11"
+                    android:onClick="speakPage2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="can't speak"/>
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/ll6"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <android.support.v7.widget.AppCompatButton
+                    android:id="@+id/button_12"
+                    android:onClick="speakPage2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="oxygen"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <android.support.v7.widget.AppCompatButton
+                    android:id="@+id/button_13"
+                    android:onClick="speakPage2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="tired now"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll7"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+
+                <LinearLayout
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <android.support.v7.widget.AppCompatButton
+                        android:id="@+id/button_14"
+                        android:onClick="speakPage2"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="better"/>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <android.support.v7.widget.AppCompatButton
+                    android:id="@+id/button_15"
+                    android:onClick="speakPage2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="worse"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+
+
+        <LinearLayout
+            android:id="@+id/ll8"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <android.support.v7.widget.AppCompatButton
+                    android:id="@+id/button_16"
+                    android:onClick="speakPage2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="my glasses"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <android.support.v7.widget.AppCompatButton
+                    android:id="@+id/button_17"
+                    android:onClick="speakPage2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="goodbye"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll9"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <LinearLayout
+
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <android.support.v7.widget.AppCompatButton
+                    android:id="@+id/button_18"
+                    android:onClick="speakPage2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="turn off light"/>
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <android.support.v7.widget.AppCompatButton
+                    android:id="@+id/button_19"
+                    android:onClick="speakPage2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="turn on light"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <android.support.v7.widget.AppCompatButton
+                    android:id="@+id/button_20"
+                    android:onClick="speakPage2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="close door"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:scaleType="fitXY"
+                android:id="@+id/back"
+                android:src="@drawable/back"
+                />
+
+
+            <ImageView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:scaleType="fitXY"
+                android:id="@+id/next"
+                android:layout_marginLeft="20dp"
+                android:src="@drawable/next"
+                />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</FrameLayout>
